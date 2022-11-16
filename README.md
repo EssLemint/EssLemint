@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EssLemint
-- 👀 I’m interested in java, spring, mysql
-- 🌱 I’m currently learning springMVC, spring data jpa
+- 👀 
+- 🌱 blog : https://winter1396love.tistory.com/
 - 📫 How to reach me limemint1396@gmail.com
 
 <!---
