@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EssLemint
-- 👀 
 - 🌱 blog : https://winter1396love.tistory.com/
 - 📫 How to reach me limemint1396@gmail.com
 
